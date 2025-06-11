@@ -61,7 +61,7 @@ h2{
 }
 @media( max-width: 1199px ) {
    .banner-img {
-    height: 50vh;
+    height: 63vh;
     object-fit: contain;
 }
 .page{

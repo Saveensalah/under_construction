@@ -72,7 +72,8 @@ h2{
 @media( max-width: 768px ) {
    .banner-img {
     width: 100%;
-    object-fit: contain;
+    object-fit: cover;
+
 }
 .logo{
     width: 100%;
